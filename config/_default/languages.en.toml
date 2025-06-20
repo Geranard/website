@@ -28,3 +28,6 @@ title = "Geranard's Site"
     { twitter = "https://twitter.com/geranardrt" },
     { ko-fi = "https://ko-fi.com/geranard" }
   ]
+
+[params.assets]
+  favicon = "favicon.ico"
