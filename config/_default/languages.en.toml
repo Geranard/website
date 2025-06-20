@@ -1,0 +1,30 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Geranard's Site"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  # secondaryLogo = "img/logo.png"
+  # description = "My awesome website"
+  copyright = "© Geranard 2025 <i>— Copying is a privilege, not a right. This message will self-destruct in 5 packets.<i>"
+
+[params.author]
+  name = "Geranard"
+  email = "rtjandranata@gmail.com"
+  image = "img/geranard.jpg"
+  imageQuality = 96
+  headline = "Powered by curiosity, held together by eye bags 👀"
+  bio = "Someone who tries to understand how things work by breaking them. Putting things back together? Still a work in progress. I usually run at 25% with eye bags, even after a full night's sleep. Hence the battery on the top left."
+  links = [
+    { email = "mailto:rtjandranata@gmail.com" },
+    { github = "https://github.com/Geranard" },
+    { medium = "https://medium.com/@geranard" },
+    { twitter = "https://twitter.com/geranardrt" },
+    { ko-fi = "https://ko-fi.com/geranard" }
+  ]
