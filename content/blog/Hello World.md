@@ -8,7 +8,7 @@ categories:
   - slice-of-life
 ---
 
-# 👋 Hello everyone!
+## 👋 Hello everyone!
 
 How did you find your way here? Well anyway, welcome to this little corner of the internet! I'm writing this at 2 AM after about four hours of sleep.
 
