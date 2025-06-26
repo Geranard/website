@@ -1,5 +1,5 @@
 ---
-title: "Profile"
+title: "About"
 date: "2025-06-19T01:20:13+07:00"
 draft: false
 ---
