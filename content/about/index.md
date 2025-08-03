@@ -32,14 +32,6 @@ PT Adira Dinamika Multifinance
 - Create a local Active Directory environment with Endpoint Detection and Response (EDR) and perform attack scenarios to assess detection readiness against malicious action.
 - Conduct vulnerability assessment utilizing automated tools, evaluate findings, and report vulnerabilities utilizing a risk assessment template as an impact reference of risk.
 - Coordinated with the Developer team to address the vulnerabilities found on applications by explaining the impact of findings based on risk and CVSS 4.0, and recommendations to fix vulnerabilities.
-- Coordinated with the IT Operation team, Network team, and Data Center team to address the vulnerabilities found on servers by reporting vulnerability assessment results with an explanation of impact and risks.
-- Create vulnerability management with a dashboard to track open and existing vulnerabilities using Microsoft Office applications.
-- Collaborate with the core team and Developer team to implement Runtime Application Self-Protection and Hardware Security Module to several financial-related applications.
-- Monitor to update information on new vulnerabilities, assessing the relevance and potential impact on the company's assets.
-- Assist in scoring Proof-of-Concept of vendors' applications using a security-based checklist to ensure their capabilities from a security perspective.
-- Collaborate with the SOC team to create a risk assessment report template with a risk matrix to define the impact of risk.
-Collaborate with the core team to create threat modeling for several applications.
-- Assist management of penetration testing projects such as deciding mandays of penetration tests, creating timeline of vulnerability assessments, etc.
 - Provide knowledge sharing on technical processes, documents, standards, and management-related to other team members.
 
 <br>
