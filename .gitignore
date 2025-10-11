@@ -22,4 +22,24 @@ hugo.linux
 !.vscode/extensions.json
 *.code-workspace
 
+### Local Overrides ###
+# Hugo server lock file
+.hugo_build.lock
+
+# Package manager caches and installs
+node_modules/
+.pnpm-store/
+
+# Environment configuration
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# OS metadata and editor folders
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+
 # End of https://www.toptal.com/developers/gitignore/api/hugo,vscode
